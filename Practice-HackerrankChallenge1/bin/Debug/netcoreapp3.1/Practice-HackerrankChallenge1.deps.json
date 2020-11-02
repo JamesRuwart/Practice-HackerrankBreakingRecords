@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Practice-HackerrankChallenge1/1.0.0": {
+        "runtime": {
+          "Practice-HackerrankChallenge1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practice-HackerrankChallenge1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

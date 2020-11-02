@@ -1,0 +1,13 @@
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-HackerrankChallenge1\Practice-HackerrankChallenge1\obj\Debug\netcoreapp3.1\Practice-HackerrankChallenge1.csprojAssemblyReference.cache
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-HackerrankChallenge1\Practice-HackerrankChallenge1\obj\Debug\netcoreapp3.1\Practice-HackerrankChallenge1.AssemblyInfoInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-HackerrankChallenge1\Practice-HackerrankChallenge1\obj\Debug\netcoreapp3.1\Practice-HackerrankChallenge1.AssemblyInfo.cs
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-HackerrankChallenge1\Practice-HackerrankChallenge1\obj\Debug\netcoreapp3.1\Practice-HackerrankChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-HackerrankChallenge1\Practice-HackerrankChallenge1\bin\Debug\netcoreapp3.1\Practice-HackerrankChallenge1.exe
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-HackerrankChallenge1\Practice-HackerrankChallenge1\bin\Debug\netcoreapp3.1\Practice-HackerrankChallenge1.deps.json
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-HackerrankChallenge1\Practice-HackerrankChallenge1\bin\Debug\netcoreapp3.1\Practice-HackerrankChallenge1.runtimeconfig.json
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-HackerrankChallenge1\Practice-HackerrankChallenge1\bin\Debug\netcoreapp3.1\Practice-HackerrankChallenge1.runtimeconfig.dev.json
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-HackerrankChallenge1\Practice-HackerrankChallenge1\bin\Debug\netcoreapp3.1\Practice-HackerrankChallenge1.dll
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-HackerrankChallenge1\Practice-HackerrankChallenge1\bin\Debug\netcoreapp3.1\Practice-HackerrankChallenge1.pdb
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-HackerrankChallenge1\Practice-HackerrankChallenge1\obj\Debug\netcoreapp3.1\Practice-HackerrankChallenge1.dll
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-HackerrankChallenge1\Practice-HackerrankChallenge1\obj\Debug\netcoreapp3.1\Practice-HackerrankChallenge1.pdb
+C:\Users\ruwar\OneDrive\Desktop\Personal Projects\Practice-HackerrankChallenge1\Practice-HackerrankChallenge1\obj\Debug\netcoreapp3.1\Practice-HackerrankChallenge1.genruntimeconfig.cache
